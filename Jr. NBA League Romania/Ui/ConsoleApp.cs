@@ -73,7 +73,7 @@ public class ConsoleApp  // Am schimbat numele clasei în ConsoleApp
         {
             System.Console.WriteLine(player);
         }
-    }
+    } 
 
     public void DisplayMatchesByDateRange()
     {
