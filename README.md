@@ -16,7 +16,7 @@ The project consists of a **domain layer**, a **repository layer**, a **service 
 
 ## 🛠️Technologies Used
 
-- ** C# & .NET Core** – For high-performance backend development
+- **C# & .NET Core** – For high-performance backend development
 - **PostgreSQL** (via `Npgsql`)  – A powerful, open-source relational database
 - **LINQ** – Enables seamless querying and manipulation of collections
 - **Generics & Delegates** – Enhances code flexibility and reusability
